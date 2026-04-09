@@ -1,0 +1,1 @@
+Pclass,Age,Fare,SibSp,Parch,FamilySize,IsAlone,Sex_encoded,Embarked_Q,Embarked_S,AgeGroup_Teen,AgeGroup_Adult,AgeGroup_Middle,AgeGroup_Senior

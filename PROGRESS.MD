@@ -88,7 +88,31 @@ Key Learning: Simplest model that works best is the best model!
 - /predict endpoint tested and working
 - Predictions generating correctly
 - Ready for Google Cloud Run deployment
+## Days 8-9: Google Cloud Run Deployment ✓ LIVE! 🌍
 
+✅ Deployed to Google Cloud Run
+✅ Public API Live!
+✅ Anyone can access from anywhere
+
+### API Details:
+- **URL:** https://mltitaniccapstone-279417333943.us-central1.run.app
+- **Model:** Logistic Regression
+- **Accuracy:** 82%
+- **Endpoints:** 
+  - GET / (home)
+  - POST /predict (predictions)
+  - GET /health (health check)
+
+### Features:
+✓ FastAPI with auto-documentation
+✓ Automatic data validation
+✓ Docker containerized
+✓ Scales automatically
+✓ Free tier available
+
+**Status: PRODUCTION READY** 🚀
+
+Next: Days 10-45 (Polish, documentation, case study) 
 Results:
 ✓ Server: http://localhost:8000
 ✓ Predictions: Working

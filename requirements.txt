@@ -4,3 +4,4 @@ scikit-learn
 pandas
 numpy
 xgboost
+python-multipart==0.0.6
